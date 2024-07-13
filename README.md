@@ -26,3 +26,7 @@ uid.json文件，添加你的用户ID
 ### 定时执行
 修改/.github/workflows/renew.yaml文件 <br>
 每日北京时间6点自动续费<br>
+
+## 相关项目
+[蓝天云自动续费](https://github.com/xjh2009/lty-renew)
+
