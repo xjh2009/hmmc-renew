@@ -28,5 +28,5 @@ uid.json文件，添加你的用户ID
 每日北京时间6点自动续费<br>
 
 ## 相关项目
-[蓝天云自动续费](https://github.com/xjh2009/lty-renew)
-[雨云自动续费](https://github.com/xjh2009/rainyun-renew)
+[蓝天云自动续费](https://github.com/xjh2009/lty-renew)<br>
+[雨云自动续费](https://github.com/xjh2009/rainyun-renew)<br>
